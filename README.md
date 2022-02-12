@@ -15,8 +15,7 @@ facilitate the analysis.
 ![unique_title](/Resources/unique_titles.png)
 
  Only 2 managers are due to retire.
- 
-![retiring_titles](/Resources/retiring_titles1.png)
+ ![retiring_titles](/Resources/retiring_titles1.png)
 
 # mentorship-eligibility table :
  This ERD created in this module as a reference from SQL queries, create a mentorship-eligibility table that holds the current employees who were born between January 1, 1965 and December 31, 1965.
