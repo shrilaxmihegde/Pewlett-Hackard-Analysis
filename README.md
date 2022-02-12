@@ -7,19 +7,19 @@ and employees whose birth dates are between January 1, 1965 and December 31, 196
 Below the ERD(Entity Relationship Diagram) used to visualize the relationship between the data sources and the structure of the company's employees plan to 
 facilitate the analysis.
 
-![employee_DB_ERD](/Resources/employeeDBERD.png)
+![employee DB ERD](/Resources/employee_DB_ERD.png)
 
  ## The number of employees by their most recent job title who are about to retire.
 1. The majority of employees that will be retiring soon are in Senior positions
 2. Only 2 managers are due to retire.
  
-![unique_title](/Resources/uniquetitle.png)
+![unique_title](/Resources/unique_titles.png)
 
-![retiring_titles1](/Resources/retiringtitles1.png)
+![retiring_titles](/Resources/retiring_titles1.png)
 
 # mentorship-eligibility table :
  This ERD created in this module as a reference from SQL queries, create a mentorship-eligibility table that holds the current employees who were born between January 1, 1965 and December 31, 1965.
-![Mentorship_Eligibilit](/Resources/MentorshipEligibility.png)
+![Mentorship Eligibility](/Resources/Mentorship_Eligibility.png)
 
 # Summary:
  Totaly ***72458***roles need to be filled as the "silver tsunami"
