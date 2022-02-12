@@ -52,7 +52,7 @@ WHERE (e.birth_date BETWEEN '1965-01-01' AND '1965-12-31')
 ORDER BY e.emp_no ;
 
 -- Deliverable 3
--- Deliverable from the two analysis, deliverable for 3 
+-- Deliverable from the two analysis, deliverable for 3 additional queries
 -- Use Dictinct with Orderby to remove duplicate rows,
 SELECT DISTINCT ON (e.emp_no) e.emp_no, e.first_name,e.last_name,e.birth_date,
 de.from_date,
@@ -70,7 +70,7 @@ ON dt.dept_no=de.dept_no
 WHERE (e.birth_date BETWEEN '1965-01-01' AND '1965-12-31')
 ORDER BY e.emp_no DESC;
 
-
+--additional queries
 select count(emp_no), dept_name
 INTO newgeneration_titles
 from Ready_retire
