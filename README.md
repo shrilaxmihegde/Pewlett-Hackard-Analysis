@@ -11,10 +11,11 @@ facilitate the analysis.
 
  ## The number of employees by their most recent job title who are about to retire.
 1. The majority of employees that will be retiring soon are in Senior positions
-2. Only 2 managers are due to retire.
- 
+
 ![unique_title](/Resources/unique_titles.png)
 
+ Only 2 managers are due to retire.
+ 
 ![retiring_titles](/Resources/retiring_titles1.png)
 
 # mentorship-eligibility table :
